@@ -36,7 +36,7 @@ npm run dev
 ```bash
 cd backend
 npm install
-npm run dev
+npx nodemon .\server.js
 ```
 
 ## Variables de entorno del backend
